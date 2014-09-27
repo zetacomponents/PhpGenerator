@@ -1,4 +1,4 @@
-1.1 - Friday 19 September 2014
+1.1 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Fixed: Adjusted source headers of PhpGenerator to Apache license.
@@ -6,10 +6,6 @@
 - Fixed: Updated copyright dates in NOTICE files.
 - Remove custom test runner.
 - Fix autoloading with composer
-
-1.0.6 - [RELEASEDATE]
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 - Fixed #16017: Small typo in ezcPhpGenerator::appendValueAssignment doc.
 
 
